@@ -82,9 +82,9 @@ Features of notification:
 # 📱 Screenshots
 
 <p align="center">
-  <img src="AlarmReminder.jpeg" width="250" alt="Home Screen"/>
+  <img src="AlarmReminder.jpeg" width="240" alt="Home Screen"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="output.jpeg" width="250" alt="Reminder Scheduled"/>
+  <img src="output.jpeg" width="240" alt="Reminder Scheduled"/>
 </p>
 ## Project Structure
 ## Permissions Required
