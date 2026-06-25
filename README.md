@@ -29,14 +29,6 @@ A simple Android Reminder Application built using **Kotlin** and **Jetpack Compo
 * Android Runtime Permissions
 
 ---
-# 📱 Screenshots
-
-<p align="center">
-  <img src="AlarmReminder.jpeg" width="250" alt="Home Screen"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="output.jpeg" width="250" alt="Reminder Scheduled"/>
-</p>
-## Project Structure
 
 ```
 app/
@@ -87,7 +79,14 @@ Features of notification:
 * Full Screen Intent support
 
 ---
+# 📱 Screenshots
 
+<p align="center">
+  <img src="AlarmReminder.jpeg" width="250" alt="Home Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="output.jpeg" width="250" alt="Reminder Scheduled"/>
+</p>
+## Project Structure
 ## Permissions Required
 
 ### Android 13+
