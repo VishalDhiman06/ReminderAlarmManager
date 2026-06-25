@@ -3,7 +3,13 @@
 A simple Android Reminder Application built using **Kotlin** and **Jetpack Compose** that allows users to schedule reminders at a specific time. The application uses **AlarmManager**, **BroadcastReceiver**, and **Notification APIs** to trigger reminders even when the device is idle.
 
 ---
+# 📱 Screenshots
 
+<p align="center">
+  <img src="AlarmReminder.jpeg" width="250" alt="Home Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="output.jpeg" width="250" alt="Reminder Scheduled"/>
+</p>
 ## Features
 
 * Set custom reminder messages
